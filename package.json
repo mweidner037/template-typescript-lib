@@ -45,6 +45,7 @@
     "npm-run-all": "^4.1.5",
     "prettier": "^2.8.4",
     "ts-node": "^10.9.1",
+    "typedoc": "^0.25.3",
     "typescript": "^4.9.5"
   },
   "scripts": {
@@ -57,6 +58,7 @@
     "test:format": "prettier --check .",
     "fix": "npm-run-all fix:*",
     "fix:format": "prettier --write .",
-    "clean": "rm -rf build"
+    "docs": "typedoc --options typedoc.json src/index.ts",
+    "clean": "rm -rf build docs"
   }
 }
