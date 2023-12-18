@@ -12,7 +12,8 @@ Setup and package versions should be current as of Feb 19 2023.
 ## Commands
 
 - Build with `npm run build`.
-- Test, lint, etc. with `npm run test`.
+- Test, lint, etc. with `npm run test`. Use `npm run coverage` for code coverage (opens in browser).
+- Preview typedoc with `npm run docs`. (Open `docs/index.html` in a browser.)
 - Publish with `npm publish`.
 
 ## TODO
