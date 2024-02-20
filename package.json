@@ -5,12 +5,12 @@
   "author": "Matthew Weidner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TODO/issues"
+    "url": "https://github.com/mweidner037/TODO/issues"
   },
-  "homepage": "https://github.com/TODO/tree/master/#readme",
+  "homepage": "https://github.com/mweidner037/TODO/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TODO.git"
+    "url": "git+https://github.com/mweidner037/TODO.git"
   },
   "keywords": [
     "TODO"
