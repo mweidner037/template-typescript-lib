@@ -15,10 +15,10 @@
   "keywords": [
     "TODO"
   ],
-  "module": "build/esm/index.js",
-  "browser": "build/esm/index.js",
-  "types": "build/esm/index.d.ts",
   "main": "build/commonjs/index.js",
+  "browser": "build/esm/index.js",
+  "module": "build/esm/index.js",
+  "types": "build/esm/index.d.ts",
   "files": [
     "/build",
     "/src"
